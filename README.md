@@ -23,7 +23,7 @@ then you can be able to install:
 
 1): [roothide Dopamine2](https://github.com/roothide/Dopamine2-roothide) (iOS 15/16)
 
-2): [roothide Bootstrap](https://github.com/roothide/Bootstrap) (iOS 17/18)
+2): [roothide Bootstrap 2.0](https://github.com/roothide/Bootstrap) (iOS 17/18) (not released yet)
 
 
 
