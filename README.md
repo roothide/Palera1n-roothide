@@ -29,3 +29,14 @@ then you can be able to install:
 
 
 ![image](image.jpeg)
+
+
+# Source Code
+
+- palera1n cli: https://github.com/palera1n/palera1n
+
+- pongo/kpf: https://github.com/roothide/PongoOS
+
+- jbinit: https://github.com/roothide/palehide-jbinit
+
+- palen1x: https://github.com/roothide/palen1x
