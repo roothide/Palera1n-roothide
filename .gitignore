@@ -1,0 +1,4 @@
+/initramfs
+initramfs.xz
+repack_initramfs.sh
+palehide-*.zip
