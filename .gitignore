@@ -3,8 +3,10 @@ initramfs.xz
 repack_initramfs.sh
 /roothide
 palehide-*.zip
-palehide.sh
 palera1n-linux-x86_64
 palera1n-macos-universal
 palen1x-*
 
+/rootfs
+palen1x.iso
+repack_iso.sh
