@@ -1,6 +1,5 @@
 /initramfs
 initramfs.xz
-repack_initramfs.sh
 /roothide
 palehide-*.zip
 palera1n-linux-x86_64
@@ -9,4 +8,3 @@ palen1x-*
 
 /rootfs
 palen1x.iso
-repack_iso.sh
